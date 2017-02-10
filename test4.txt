@@ -3,10 +3,5 @@ aaa
 ddd
 
 mmm
-fff<<<<<<< .mine
-
 fff
-=======
 
-mmm
->>>>>>> .theirs
