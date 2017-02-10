@@ -2,11 +2,3 @@ aaa
 
 ddd
 
-kkk
-uuu<<<<<<< .mine
-
-uuu
-=======
-
-kkk
->>>>>>> .theirs
