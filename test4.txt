@@ -2,6 +2,11 @@ aaa
 
 ddd
 
-www
+mmm
+fff<<<<<<< .mine
 
 fff
+=======
+
+mmm
+>>>>>>> .theirs
